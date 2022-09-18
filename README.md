@@ -15,5 +15,5 @@
 
 ## Descrição
 
-Projeto consiste em uma página web com animações feitas com CSS
+Projeto consiste em uma página web com animações feitas com CSS<br>
 Com este projeto pude adquirir mais conhecimentos na minha stack Front-end
