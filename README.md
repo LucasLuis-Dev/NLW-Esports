@@ -1,15 +1,15 @@
-# NLW-Esports
+# 🎮 NLW Esports
 
 <img src="https://cdn.discordapp.com/attachments/965066624556232737/1021121278347841636/Wallpaper_-_1920x1080.png">
 
 Projeto feito em conjunto no evento NLW Esports proporcionado pela Rocketseat :rocket:
 
-## Descrição
+## 📄 Descrição
 
 Projeto consiste em uma página web com animações feitas com CSS<br>
 Com este projeto pude adquirir mais conhecimentos na minha stack Front-end
 
-## Tecnologias
+### 🎯 Tecnologias
 
 - HTML
 - CSS
